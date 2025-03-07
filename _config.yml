@@ -28,7 +28,7 @@ github_username:  LeaxLang
 linkedin_username: lea-llang
 
 # Build settings
-theme: minima
+remote_theme: leaxlang/portfolio_theme
 plugins:
   - jekyll-feed
 
