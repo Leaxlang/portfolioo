@@ -22,7 +22,7 @@ title: Lea Lang
 email: llealang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Das Portfolio von Lea Lang. Hier können Sie mehr über mich erfahren und ein paar meiner arbeiten der letzten Jahre sehen. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "portfolioo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  LeaxLang
 linkedin_username: lea-llang
