@@ -8,7 +8,7 @@ img: "/assets/images/SeniorDesign/Astrophobia.png"
 img1: "/assets/images/SeniorDesign/sitemap.png"
 img2: "/assets/images/SeniorDesign/designguidelines.png"
 img3: "/assets/images/SeniorDesign/prototype.png"
-img4: "/assets/images/SeniorDesign/shopify-diagram.png"
+img4: {site.baseurl | prepend: site.url}}assets/images/SeniorDesign/shopify-diagram.png
 
 ---
 # Senior Design Project
@@ -47,6 +47,7 @@ Wir haben einen Prototyp der Website erstellt, um eine bessere Vorstellung davon
  
 
  ![Bild mit Protoype]( {{ page.img3 }} "Ein Blick darauf, wie der Prototyp aussah und wie die Schaltflächen die Seiten miteinander verbanden")
+ <img src="{{site.baseurl | prepend: site.url}}assets/images/SeniorDesign/prototype.png" alt="to img tag" />
 
 
 Wir haben uns für Headless E-Commerce für unser Projekt entschieden, da es sich derzeit um einen Markt mit einem Volumen von 1,65 Milliarden US-Dollar (2021) handelt, von dem erwartet wird, dass er schnell wachsen wird. Headless E-Commerce trennte die Frontend-Schicht vom Backend. So hatten wir die Freiheit, unser Website-Design so zu gestalten und zu präsentieren, wie wir es wollten, und haben die bereits vorhandene Shopify-Backend-Lösung wiederverwendet. Diese Technologie ermöglichte es uns, flexibel zu sein, aber dennoch die Kontrolle zu haben, eine sichere Website zu haben und unser Projekt in Zukunft zu erweitern. 
