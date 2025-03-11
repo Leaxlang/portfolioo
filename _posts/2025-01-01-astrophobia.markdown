@@ -8,7 +8,7 @@ img: "/assets/images/SeniorDesign/Astrophobia.png"
 img1: "/assets/images/SeniorDesign/sitemap.png"
 img2: "/assets/images/SeniorDesign/designguidelines.png"
 img3: "/assets/images/SeniorDesign/prototype.png"
-img4: {site.baseurl | prepend: site.url}}assets/images/SeniorDesign/shopify-diagram.png
+img4: "/assets/images/SeniorDesign/shopify-diagram.png"
 
 ---
 # Senior Design Project
