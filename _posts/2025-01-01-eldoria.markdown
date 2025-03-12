@@ -4,23 +4,14 @@ title:  "Eldoria"
 date:   2025-02-19 13:21:00 +0100
 categories: projects
 desc: Eldoria ist ein textbasiertes Java- Abenteuerspiel. Ich habe dies im Rahmen meines Kurses CS 2013 „Datenstrukturen und Algorithmen“ erstellt. Es funktioniert mit individuellen Datenstrukturen die Redundanz vermeiden, den Code schneller und übersichtlicher machen und auch sind Änderung und Erweiterung dadurch ohne Probleme möglich.
-img: "{{ site.baseurl }}/assets/images/eldoria/Slide1.jpg"
-img1: "assets/images/eldoria/Slide2.jpg"
-img2: "assets/images/eldoria/Slide3.jpg"
-img3: "assets/images/eldoria/Slide4.jpg"
-img4: "assets/images/eldoria/Slide5.jpg"
-img5: "assets/images/eldoria/Slide6.jpg"
-img6: "assets/images/eldoria/Slide7.jpg"
-img7: "assets/images/eldoria/Slide8.jpg"
+img: "assets/images/eldoria/Slide1.jpg"
+
 ---
 
-<!-- ![Image]({{ site.baseurl }}/assets/eldoria/Slide1.jpg) -->
-
-![Eldoria]({{ page.img }})
-![Eldoria]({{ page.img1 }})
-![Eldoria]({{ page.img2 }})
-![Eldoria]({{ page.img3 }})
-![Eldoria]({{ page.img4 }})
-![Eldoria]({{ page.img5 }})
-![Eldoria]({{ page.img6 }})
-![Eldoria]({{ page.img7 }})
+![Eldoria](../../../../assets/images/eldoria/Slide1.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide2.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide3.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide4.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide5.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide6.jpg)
+![Eldoria](../../../../assets/images/eldoria/Slide7.jpg)
