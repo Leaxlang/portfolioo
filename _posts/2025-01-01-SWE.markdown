@@ -30,4 +30,4 @@ Das Design für die WordPress Website war relativ einfach zu gestalten, da ich d
 Die Website zu entwickeln war eine interessante Erfahrung, es war mein erstes Projekt mit WordPress. Das meiste war sehr selbsterklärend und das Wissen über andere Frontend-Webtechnologien war ein großer Vorteil, der mir geholfen hat, einige Elemente einfacher zu implementieren und benutzerdefinierte Codeblöcke für einige Funktionen zu schreiben, wie z. B. das Kontaktformular oder die Discord-Funktion. 
 
 
-![Bild der fertigen Website]({{ page.img }})
+![Bild der fertigen Website](../../../../assets/images/swewebsite.png)
