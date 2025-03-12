@@ -4,7 +4,7 @@ title:  "Albert Einstein"
 date:   2025-02-19 13:21:00 +0100
 categories: projects
 desc: Dieses Projekt entstand als mein letztes Projekt für meinen Kurs, ASTR 1510, im Herbst 2022. Ziel war es, ein Thema auf eine von uns gewählte Weise zu präsentieren. Ich beschloss, eine Website über Albert Einstein zu erstellen und verschiedene Kategorien vorzustellen, darunter einige berühmte Theorien über ihn und sein Leben.
-img: "/assets/images/AE.png"
+img: "assets/images/AE.png"
 ---
 
 # Albert Einstein
@@ -54,4 +54,4 @@ Nachdem die Website funktionsfähig war, war sie für das, was ich erreichen wol
 
 Ich wollte das Projekt meinem Professor zugänglich machen und beschloss daher, es auf GitHub-Seiten zu veröffentlichen.
 
-![Bild der fertigen Website]({{ page.img }})
+![Bild der fertigen Website]({{site.baseurl}}/assets/images/AE.png)
