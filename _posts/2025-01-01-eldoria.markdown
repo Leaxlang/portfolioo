@@ -4,7 +4,7 @@ title:  "Eldoria"
 date:   2025-02-19 13:21:00 +0100
 categories: projects
 desc: Eldoria ist ein textbasiertes Java- Abenteuerspiel. Ich habe dies im Rahmen meines Kurses CS 2013 „Datenstrukturen und Algorithmen“ erstellt. Es funktioniert mit individuellen Datenstrukturen die Redundanz vermeiden, den Code schneller und übersichtlicher machen und auch sind Änderung und Erweiterung dadurch ohne Probleme möglich.
-img: "assets/images/eldoria/Slide1.jpg"
+img: "assets/images/eldoria/slide1.JPG"
 
 ---
 
