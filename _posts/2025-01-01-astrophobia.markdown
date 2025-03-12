@@ -1,14 +1,14 @@
----
+a<---
 layout: page
 title:  "Astrophobia"
 date:   2025-02-20 13:21:00 +0100
 categories: projects
 desc: Für unser Senior Design Projekt haben mein Team aus sechs Personen und ich uns entschieden, einen Online-Kleidungsfachhandel zu entwickeln. Dies umfasste das Design, die Entwicklung und den Launch der Website sowie das Design der präsentierten Kleidungsstücke. In diesem Projekt übernahm ich die Rolle des Website-Managements, wo ich Aufgaben delegierte und die Arbeit von 2-3 anderen Teammitgliedern überwachte.
 img: "/assets/images/SeniorDesign/Astrophobia.png"
-img1: "/assets/images/SeniorDesign/sitemap.png"
-img2: "/assets/images/SeniorDesign/designguidelines.png"
-img3: "/assets/images/SeniorDesign/prototype.png"
-img4: "/assets/images/SeniorDesign/shopify-diagram.png"
+img1: "../../../../assets/images/SeniorDesign/sitemap.png"
+img2: "../../../../assets/images/SeniorDesign/designguidelines.png"
+img3: "../../../../assets/images/SeniorDesign/prototype.png"
+img4: "../../../../assets/images/SeniorDesign/shopify-diagram.png"
 
 ---
 # Senior Design Project
