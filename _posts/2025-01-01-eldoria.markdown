@@ -8,10 +8,10 @@ img: "assets/images/eldoria/Slide1.jpg"
 
 ---
 
-![Eldoria](../../../../assets/images/eldoria/Slide1.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide2.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide3.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide4.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide5.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide6.jpg)
-![Eldoria](../../../../assets/images/eldoria/Slide7.jpg)
+![Eldoria](../../../../assets/images/eldoria/slide1.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide2.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide3.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide4.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide5.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide6.JPG)
+![Eldoria](../../../../assets/images/eldoria/slide7.JPG)
