@@ -54,4 +54,4 @@ Nachdem die Website funktionsfähig war, war sie für das, was ich erreichen wol
 
 Ich wollte das Projekt meinem Professor zugänglich machen und beschloss daher, es auf GitHub-Seiten zu veröffentlichen.
 
-![Bild der fertigen Website]({{site.baseurl}}/assets/images/AE.png)
+![Bild der fertigen Website](../../../../assets/images/AE.png)
