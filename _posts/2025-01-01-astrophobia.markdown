@@ -9,12 +9,12 @@ img1: "../../../../assets/images/SeniorDesign/sitemap.png"
 img2: "../../../../assets/images/SeniorDesign/designguidelines.png"
 img3: "../../../../assets/images/SeniorDesign/prototype.png"
 img4: "../../../../assets/images/SeniorDesign/shopify-diagram.png"
-
+img5: "../../../../assets/images/SeniorDesign/Astrophobia.png"
 ---
 # Senior Design Project
 ### Projektübersicht
 
-![Astrophobia Logo]( {{ page.img }} "The Astrophobia Logo")
+![Astrophobia Logo]( {{ page.img5 }} "The Astrophobia Logo")
 
 
 For our senior design project me and my 5 other group members decided to create a clothing web store. This would include desiging, developing and launching the website. And also designing the clothes that would be presented. My role in this project was the management of the website, where I delegated tasks and check work of 2-3 other team members.
